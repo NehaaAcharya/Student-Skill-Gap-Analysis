@@ -1,5 +1,3 @@
-# Student-Skill-Gap-Analysis
-
 # Student Skill Gap Analysis & Recommendation System
 
 ## 📖 Project Overview
