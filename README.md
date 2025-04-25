@@ -1,5 +1,8 @@
 # Student Skill Gap Analysis & Recommendation System
 
+**Guided by: Dr. Bindu Garg, Department of Computer Science and Business Systems**
+**Project By: Nehaa Acharya | Kanishka Verma | Yash Madaan | Shristi Saini **
+
 ## 📖 Project Overview
 The **Student Skill Gap Analysis and Recommendation System** helps students assess their skills, identify gaps, and receive personalized recommendations for internships, learning resources, and career paths. The system leverages AI-powered analysis to provide insights based on user data.
 
@@ -86,12 +89,23 @@ HF_API_KEY = os.getenv("HF_API_KEY")
 - 🏫 **Educator Dashboard** for academic institutions.
 - 🔍 **Enhanced Internship Matching Algorithm**.
 
+## 🎓 Credits & Acknowledgments
+
+This project was developed as part of a project-based learning curriculum under the expert guidance of our Professor,
+**Dr. Bindu Garg**, *Department of Computer Science and Business Systems*.  
+We are deeply grateful for her mentorship, encouragement, and insightful feedback throughout the development process.
+
+**Team Members:**
+- **Nehaa Acharya**
+- **Kanishka Verma**
+- **Yash Madaan**
+- **Shristi Saini**
+
+Special thanks to our team for their dedication, collaborative spirit, and consistent effort in bringing this project to life.
+
+
 ## 🤝 Contributing
 Want to improve this project? Feel free to submit a pull request!
-
-## 📞 Contact
-For any queries or support, reach out at **support@skillgapanalysis.com**.
-
 ---
-🔹 **Developed with ❤️ by Nehaa Acharya-Kanishka Verma-Yash Madaan-Shristi Saini**
+
 
