@@ -1,6 +1,6 @@
 # Student Skill Gap Analysis & Recommendation System
 
-**Guided by: Dr. Bindu Garg, Department of Computer Science and Business Systems**
+**Guided by: Dr. Bindu Garg, Department of Computer Science and Business Systems**  
 **Project By: Nehaa Acharya | Kanishka Verma | Yash Madaan | Shristi Saini**
 
 ## 📖 Project Overview
@@ -91,7 +91,7 @@ HF_API_KEY = os.getenv("HF_API_KEY")
 
 ## 🎓 Credits & Acknowledgments
 
-This project was developed as part of a project-based learning curriculum under the expert guidance of our Professor 
+This project was developed as part of a project-based learning curriculum under the expert guidance of our Professor     
 **Dr. Bindu Garg**, *Department of Computer Science and Business Systems*.  
 We are deeply grateful for her mentorship, encouragement, and insightful feedback throughout the development process.
 
